@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Nishu84570/leetcode_Submission/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Nishu84570/leetcode_Submission/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Nishu84570/leetcode_Submission/tree/master/0015-3sum) |
+| [0055-jump-game](https://github.com/Nishu84570/leetcode_Submission/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nishu84570/leetcode_Submission/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Nishu84570/leetcode_Submission/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nishu84570/leetcode_Submission/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nishu84570/leetcode_Submission/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Nishu84570/leetcode_Submission/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nishu84570/leetcode_Submission/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Nishu84570/leetcode_Submission/tree/master/0135-candy) |
 ## Sliding Window
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Nishu84570/leetcode_Submission/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nishu84570/leetcode_Submission/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Nishu84570/leetcode_Submission/tree/master/0392-is-subsequence) |
 ## Binary Search
