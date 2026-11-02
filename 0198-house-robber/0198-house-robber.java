@@ -1,6 +1,5 @@
 class Solution {
     public int rob(int[] nums) {
-        int max_amount = nums[0];
         int prev2 = 0;
         int prev1 = nums[0];
 
