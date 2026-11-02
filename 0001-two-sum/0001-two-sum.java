@@ -6,9 +6,9 @@ class Solution {
             int y = target - nums[i];
 
             if(map.containsKey(y)){
-                return new int[] {i , map.get(y)};
+                return new int[] {map.get(y) , i};
             }
-            
+
             map.put(nums[i] , i);
         }
 
