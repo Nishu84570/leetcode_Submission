@@ -3,12 +3,7 @@ class Solution {
         Stack<Integer> st = new Stack<>();
 
         for(int i = 0; i<tokens.length; i++){
-            if(st.isEmpty()){
-                int num = Integer.valueOf(tokens[i]);
-                st.push(num);
-            }
-
-            else if(tokens[i].equals("+")){
+            if(tokens[i].equals("+")){
                 int a = st.peek();
                 st.pop();
 
@@ -16,6 +11,17 @@ class Solution {
                 st.pop();
 
                 int c = a + b;
+                st.push(c);
+            }
+
+            else if(tokens[i].equals("*")){
+                int a = st.peek();
+                st.pop();
+
+                int b = st.peek();
+                st.pop();
+
+                int c = a * b;
                 st.push(c);
             }
 
@@ -27,18 +33,6 @@ class Solution {
                 st.pop();
 
                 int c = b - a;
-                st.push(c);
-            }
-
-
-            else if(tokens[i].equals("*")){
-                int a = st.peek();
-                st.pop();
-
-                int b = st.peek();
-                st.pop();
-
-                int c = a * b;
                 st.push(c);
             }
 
@@ -54,8 +48,7 @@ class Solution {
             }
 
             else{
-                int num = Integer.valueOf(tokens[i]);
-                st.push(num);
+                st.push(Integer.valueOf(tokens[i]));
             }
         }
 
