@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nishu84570/leetcode_Submission/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nishu84570/leetcode_Submission/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Nishu84570/leetcode_Submission/tree/master/1441-build-an-array-with-stack-operations) |
 ## Math
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nishu84570/leetcode_Submission/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/Nishu84570/leetcode_Submission/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Nishu84570/leetcode_Submission/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nishu84570/leetcode_Submission/tree/master/0128-longest-consecutive-sequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Nishu84570/leetcode_Submission/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
