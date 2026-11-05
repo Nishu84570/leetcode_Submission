@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Nishu84570/leetcode_Submission/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Nishu84570/leetcode_Submission/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Nishu84570/leetcode_Submission/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Nishu84570/leetcode_Submission/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Nishu84570/leetcode_Submission/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nishu84570/leetcode_Submission/tree/master/0240-search-a-2d-matrix-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nishu84570/leetcode_Submission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nishu84570/leetcode_Submission/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Nishu84570/leetcode_Submission/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Nishu84570/leetcode_Submission/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Nishu84570/leetcode_Submission/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/0263-ugly-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nishu84570/leetcode_Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0728-self-dividing-numbers](https://github.com/Nishu84570/leetcode_Submission/tree/master/0728-self-dividing-numbers) |
@@ -192,4 +194,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Nishu84570/leetcode_Submission/tree/master/0141-linked-list-cycle) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Nishu84570/leetcode_Submission/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Nishu84570/leetcode_Submission/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Nishu84570/leetcode_Submission/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Nishu84570/leetcode_Submission/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Nishu84570/leetcode_Submission/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
