@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Nishu84570/leetcode_Submission/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Nishu84570/leetcode_Submission/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nishu84570/leetcode_Submission/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Nishu84570/leetcode_Submission/tree/master/0172-factorial-trailing-zeroes) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nishu84570/leetcode_Submission/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nishu84570/leetcode_Submission/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Nishu84570/leetcode_Submission/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Nishu84570/leetcode_Submission/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nishu84570/leetcode_Submission/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Nishu84570/leetcode_Submission/tree/master/0070-climbing-stairs) |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Nishu84570/leetcode_Submission/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/Nishu84570/leetcode_Submission/tree/master/0234-palindrome-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Nishu84570/leetcode_Submission/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
