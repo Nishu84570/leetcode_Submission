@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Nishu84570/leetcode_Submission/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Nishu84570/leetcode_Submission/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Nishu84570/leetcode_Submission/tree/master/0645-set-mismatch) |
+| [0746-min-cost-climbing-stairs](https://github.com/Nishu84570/leetcode_Submission/tree/master/0746-min-cost-climbing-stairs) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Nishu84570/leetcode_Submission/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Nishu84570/leetcode_Submission/tree/master/1470-shuffle-the-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nishu84570/leetcode_Submission/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Nishu84570/leetcode_Submission/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Nishu84570/leetcode_Submission/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/Nishu84570/leetcode_Submission/tree/master/0746-min-cost-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
