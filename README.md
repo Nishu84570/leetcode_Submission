@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Nishu84570/leetcode_Submission/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nishu84570/leetcode_Submission/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nishu84570/leetcode_Submission/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Nishu84570/leetcode_Submission/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Nishu84570/leetcode_Submission/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nishu84570/leetcode_Submission/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Nishu84570/leetcode_Submission/tree/master/0063-unique-paths-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nishu84570/leetcode_Submission/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Nishu84570/leetcode_Submission/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nishu84570/leetcode_Submission/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Nishu84570/leetcode_Submission/tree/master/0234-palindrome-linked-list) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Nishu84570/leetcode_Submission/tree/master/1441-build-an-array-with-stack-operations) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nishu84570/leetcode_Submission/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nishu84570/leetcode_Submission/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nishu84570/leetcode_Submission/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Nishu84570/leetcode_Submission/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Nishu84570/leetcode_Submission/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nishu84570/leetcode_Submission/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Nishu84570/leetcode_Submission/tree/master/0088-merge-sorted-array) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nishu84570/leetcode_Submission/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Nishu84570/leetcode_Submission/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nishu84570/leetcode_Submission/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Nishu84570/leetcode_Submission/tree/master/0062-unique-paths) |
@@ -269,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Nishu84570/leetcode_Submission/tree/master/0075-sort-colors) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Nishu84570/leetcode_Submission/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
