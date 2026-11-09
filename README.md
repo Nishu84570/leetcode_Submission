@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nishu84570/leetcode_Submission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nishu84570/leetcode_Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Nishu84570/leetcode_Submission/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/Nishu84570/leetcode_Submission/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Nishu84570/leetcode_Submission/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Nishu84570/leetcode_Submission/tree/master/0645-set-mismatch) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nishu84570/leetcode_Submission/tree/master/0746-min-cost-climbing-stairs) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Nishu84570/leetcode_Submission/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nishu84570/leetcode_Submission/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Nishu84570/leetcode_Submission/tree/master/0135-candy) |
+| [0561-array-partition](https://github.com/Nishu84570/leetcode_Submission/tree/master/0561-array-partition) |
 ## Sliding Window
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Nishu84570/leetcode_Submission/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Nishu84570/leetcode_Submission/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Nishu84570/leetcode_Submission/tree/master/0229-majority-element-ii) |
+| [0561-array-partition](https://github.com/Nishu84570/leetcode_Submission/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Nishu84570/leetcode_Submission/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Nishu84570/leetcode_Submission/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Nishu84570/leetcode_Submission/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Nishu84570/leetcode_Submission/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Nishu84570/leetcode_Submission/tree/master/0383-ransom-note) |
+| [0561-array-partition](https://github.com/Nishu84570/leetcode_Submission/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
