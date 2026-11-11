@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Nishu84570/leetcode_Submission/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Nishu84570/leetcode_Submission/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nishu84570/leetcode_Submission/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nishu84570/leetcode_Submission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nishu84570/leetcode_Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Nishu84570/leetcode_Submission/tree/master/0485-max-consecutive-ones) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Nishu84570/leetcode_Submission/tree/master/0645-set-mismatch) |
 ## Stack
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/0287-find-the-duplicate-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Nishu84570/leetcode_Submission/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Two Pointers
 |  |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nishu84570/leetcode_Submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Nishu84570/leetcode_Submission/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Nishu84570/leetcode_Submission/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Nishu84570/leetcode_Submission/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Nishu84570/leetcode_Submission/tree/master/0876-middle-of-the-linked-list) |
 ## String
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Nishu84570/leetcode_Submission/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nishu84570/leetcode_Submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nishu84570/leetcode_Submission/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Nishu84570/leetcode_Submission/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -243,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Nishu84570/leetcode_Submission/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nishu84570/leetcode_Submission/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/0287-find-the-duplicate-number) |
 ## Enumeration
 |  |
 | ------- |
