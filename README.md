@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Nishu84570/leetcode_Submission/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Nishu84570/leetcode_Submission/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nishu84570/leetcode_Submission/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/Nishu84570/leetcode_Submission/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nishu84570/leetcode_Submission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nishu84570/leetcode_Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nishu84570/leetcode_Submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Nishu84570/leetcode_Submission/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Nishu84570/leetcode_Submission/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Nishu84570/leetcode_Submission/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Nishu84570/leetcode_Submission/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Nishu84570/leetcode_Submission/tree/master/0876-middle-of-the-linked-list) |
