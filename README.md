@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Nishu84570/leetcode_Submission/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/Nishu84570/leetcode_Submission/tree/master/1929-concatenation-of-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nishu84570/leetcode_Submission/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Nishu84570/leetcode_Submission/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Greedy
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nishu84570/leetcode_Submission/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Nishu84570/leetcode_Submission/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/Nishu84570/leetcode_Submission/tree/master/0561-array-partition) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Nishu84570/leetcode_Submission/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Sliding Window
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Nishu84570/leetcode_Submission/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Nishu84570/leetcode_Submission/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Nishu84570/leetcode_Submission/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Counting Sort
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Nishu84570/leetcode_Submission/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Nishu84570/leetcode_Submission/tree/master/0876-middle-of-the-linked-list) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Nishu84570/leetcode_Submission/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## String
 |  |
 | ------- |
