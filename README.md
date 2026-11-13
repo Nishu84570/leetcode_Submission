@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nishu84570/leetcode_Submission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nishu84570/leetcode_Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Nishu84570/leetcode_Submission/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/Nishu84570/leetcode_Submission/tree/master/0523-continuous-subarray-sum) |
 | [0561-array-partition](https://github.com/Nishu84570/leetcode_Submission/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Nishu84570/leetcode_Submission/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Nishu84570/leetcode_Submission/tree/master/0645-set-mismatch) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Nishu84570/leetcode_Submission/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Nishu84570/leetcode_Submission/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nishu84570/leetcode_Submission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/Nishu84570/leetcode_Submission/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/Nishu84570/leetcode_Submission/tree/master/0645-set-mismatch) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Nishu84570/leetcode_Submission/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Nishu84570/leetcode_Submission/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/0263-ugly-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nishu84570/leetcode_Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0523-continuous-subarray-sum](https://github.com/Nishu84570/leetcode_Submission/tree/master/0523-continuous-subarray-sum) |
 | [0728-self-dividing-numbers](https://github.com/Nishu84570/leetcode_Submission/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Nishu84570/leetcode_Submission/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2485-find-the-pivot-integer](https://github.com/Nishu84570/leetcode_Submission/tree/master/2485-find-the-pivot-integer) |
@@ -147,11 +150,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nishu84570/leetcode_Submission/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/Nishu84570/leetcode_Submission/tree/master/0523-continuous-subarray-sum) |
 | [2485-find-the-pivot-integer](https://github.com/Nishu84570/leetcode_Submission/tree/master/2485-find-the-pivot-integer) |
 ## Pigeonhole Principle
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/0287-find-the-duplicate-number) |
+| [0523-continuous-subarray-sum](https://github.com/Nishu84570/leetcode_Submission/tree/master/0523-continuous-subarray-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Nishu84570/leetcode_Submission/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Two Pointers
 |  |
