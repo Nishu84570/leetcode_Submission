@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nishu84570/leetcode_Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Nishu84570/leetcode_Submission/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Nishu84570/leetcode_Submission/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Nishu84570/leetcode_Submission/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Nishu84570/leetcode_Submission/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Nishu84570/leetcode_Submission/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Nishu84570/leetcode_Submission/tree/master/0645-set-mismatch) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Nishu84570/leetcode_Submission/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nishu84570/leetcode_Submission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Nishu84570/leetcode_Submission/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Nishu84570/leetcode_Submission/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Nishu84570/leetcode_Submission/tree/master/0645-set-mismatch) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Nishu84570/leetcode_Submission/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nishu84570/leetcode_Submission/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/Nishu84570/leetcode_Submission/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Nishu84570/leetcode_Submission/tree/master/0560-subarray-sum-equals-k) |
 | [2485-find-the-pivot-integer](https://github.com/Nishu84570/leetcode_Submission/tree/master/2485-find-the-pivot-integer) |
 ## Pigeonhole Principle
 |  |
