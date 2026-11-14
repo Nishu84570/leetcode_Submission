@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Nishu84570/leetcode_Submission/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Nishu84570/leetcode_Submission/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/Nishu84570/leetcode_Submission/tree/master/0326-power-of-three) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nishu84570/leetcode_Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Nishu84570/leetcode_Submission/tree/master/0523-continuous-subarray-sum) |
 | [0728-self-dividing-numbers](https://github.com/Nishu84570/leetcode_Submission/tree/master/0728-self-dividing-numbers) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Nishu84570/leetcode_Submission/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Nishu84570/leetcode_Submission/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Nishu84570/leetcode_Submission/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Nishu84570/leetcode_Submission/tree/master/0326-power-of-three) |
 ## Combinatorics
 |  |
 | ------- |
