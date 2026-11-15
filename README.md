@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Nishu84570/leetcode_Submission/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Nishu84570/leetcode_Submission/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/Nishu84570/leetcode_Submission/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Nishu84570/leetcode_Submission/tree/master/0326-power-of-three) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nishu84570/leetcode_Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Nishu84570/leetcode_Submission/tree/master/0523-continuous-subarray-sum) |
@@ -312,4 +313,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nishu84570/leetcode_Submission/tree/master/0042-trapping-rain-water) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Nishu84570/leetcode_Submission/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Nishu84570/leetcode_Submission/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Nishu84570/leetcode_Submission/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Nishu84570/leetcode_Submission/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Nishu84570/leetcode_Submission/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
