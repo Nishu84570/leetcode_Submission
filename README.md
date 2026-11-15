@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Nishu84570/leetcode_Submission/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Nishu84570/leetcode_Submission/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nishu84570/leetcode_Submission/tree/master/0746-min-cost-climbing-stairs) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Nishu84570/leetcode_Submission/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Nishu84570/leetcode_Submission/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Nishu84570/leetcode_Submission/tree/master/1470-shuffle-the-array) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Nishu84570/leetcode_Submission/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Nishu84570/leetcode_Submission/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -345,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Nishu84570/leetcode_Submission/tree/master/0292-nim-game) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Nishu84570/leetcode_Submission/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
