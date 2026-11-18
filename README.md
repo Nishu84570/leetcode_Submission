@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Nishu84570/leetcode_Submission/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nishu84570/leetcode_Submission/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nishu84570/leetcode_Submission/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/Nishu84570/leetcode_Submission/tree/master/0877-stone-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nishu84570/leetcode_Submission/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Nishu84570/leetcode_Submission/tree/master/1441-build-an-array-with-stack-operations) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Nishu84570/leetcode_Submission/tree/master/0523-continuous-subarray-sum) |
 | [0728-self-dividing-numbers](https://github.com/Nishu84570/leetcode_Submission/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/Nishu84570/leetcode_Submission/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Nishu84570/leetcode_Submission/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2485-find-the-pivot-integer](https://github.com/Nishu84570/leetcode_Submission/tree/master/2485-find-the-pivot-integer) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nishu84570/leetcode_Submission/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Nishu84570/leetcode_Submission/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nishu84570/leetcode_Submission/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Nishu84570/leetcode_Submission/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -352,10 +355,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Nishu84570/leetcode_Submission/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/Nishu84570/leetcode_Submission/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Nishu84570/leetcode_Submission/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/Nishu84570/leetcode_Submission/tree/master/0877-stone-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -386,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Nishu84570/leetcode_Submission/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nishu84570/leetcode_Submission/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nishu84570/leetcode_Submission/tree/master/0145-binary-tree-postorder-traversal) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Nishu84570/leetcode_Submission/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
