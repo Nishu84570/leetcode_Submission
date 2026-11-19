@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Nishu84570/leetcode_Submission/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Nishu84570/leetcode_Submission/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Nishu84570/leetcode_Submission/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/Nishu84570/leetcode_Submission/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Nishu84570/leetcode_Submission/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Nishu84570/leetcode_Submission/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Nishu84570/leetcode_Submission/tree/master/0238-product-of-array-except-self) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Nishu84570/leetcode_Submission/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nishu84570/leetcode_Submission/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Nishu84570/leetcode_Submission/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Nishu84570/leetcode_Submission/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Nishu84570/leetcode_Submission/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Nishu84570/leetcode_Submission/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/0268-missing-number) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Nishu84570/leetcode_Submission/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Nishu84570/leetcode_Submission/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Nishu84570/leetcode_Submission/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Nishu84570/leetcode_Submission/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Nishu84570/leetcode_Submission/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nishu84570/leetcode_Submission/tree/master/0442-find-all-duplicates-in-an-array) |
