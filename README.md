@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Nishu84570/leetcode_Submission/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Nishu84570/leetcode_Submission/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Nishu84570/leetcode_Submission/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Nishu84570/leetcode_Submission/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nishu84570/leetcode_Submission/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nishu84570/leetcode_Submission/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Nishu84570/leetcode_Submission/tree/master/0088-merge-sorted-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Nishu84570/leetcode_Submission/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Nishu84570/leetcode_Submission/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/0268-missing-number) |
@@ -407,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Nishu84570/leetcode_Submission/tree/master/0877-stone-game) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Nishu84570/leetcode_Submission/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
