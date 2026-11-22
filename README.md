@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Nishu84570/leetcode_Submission/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/Nishu84570/leetcode_Submission/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Nishu84570/leetcode_Submission/tree/master/0392-is-subsequence) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Nishu84570/leetcode_Submission/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Dynamic Programming
 |  |
 | ------- |
