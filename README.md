@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Nishu84570/leetcode_Submission/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Nishu84570/leetcode_Submission/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Nishu84570/leetcode_Submission/tree/master/0645-set-mismatch) |
 ## Stack
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Nishu84570/leetcode_Submission/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Nishu84570/leetcode_Submission/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Nishu84570/leetcode_Submission/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nishu84570/leetcode_Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Nishu84570/leetcode_Submission/tree/master/0523-continuous-subarray-sum) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Nishu84570/leetcode_Submission/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Nishu84570/leetcode_Submission/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Nishu84570/leetcode_Submission/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Nishu84570/leetcode_Submission/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Nishu84570/leetcode_Submission/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
